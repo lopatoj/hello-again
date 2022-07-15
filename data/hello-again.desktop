@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+​
+Name=Hello Again
+Comment=test
+Categories=Development;Education;
+​
+Icon=com.github.lopatoj.hello-again
+Exec=com.github.lopatoj.hello-again
+Terminal=false
