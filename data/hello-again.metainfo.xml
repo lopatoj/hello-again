@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>com.github.lopatoj.hello-again</id>
+  
+  <name>Hello Again</name>
+  <summary>test</summary>
+  
+  <metadata_license>MIT</metadata_license>
+  <project_license>MIT</project_license>
+  
+  <description>
+    <p>
+      App to test entire app development process as part of elementary OS tutorial.
+    </p>
+  </description>
+  
+  <launchable type="desktop-id">com.github.lopatoj.hello_again.desktop</launchable>
+</component>
